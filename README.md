@@ -1,5 +1,7 @@
 # Typings
 
+[![Join the chat at https://gitter.im/typings/typings](https://badges.gitter.im/typings/typings.svg)](https://gitter.im/typings/typings?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![NPM version][npm-image]][npm-url]
 [![NPM downloads][downloads-image]][downloads-url]
 [![Build status][travis-image]][travis-url]
